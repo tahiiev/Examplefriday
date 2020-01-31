@@ -11,6 +11,7 @@ public class ExampleFriday {
      */
     public static void main(String[] args) {
         System.out.println("learing GitHub test45");
+        System.out.println("learing GitHub test45");
         System.out.println("learing GitHub test2");
     }
     
